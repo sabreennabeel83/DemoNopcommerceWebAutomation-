@@ -1,0 +1,5 @@
+Pages\SearchResultPage.class
+Pages\LogInPage.class
+Pages\RegisterPage.class
+Pages\BasePage.class
+Pages\HomePage.class
