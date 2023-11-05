@@ -7,7 +7,7 @@ This project is a web automation framework built using Selenium and Java, utiliz
 -Automated login function for web applications in three ways:
 
 
-  -TestNG
+  --TestNG
   -TestNG DataProvider
   -BDD
 
